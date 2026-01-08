@@ -1,0 +1,8 @@
+*{
+    background-color: #fbbeeaed;
+}
+
+.head{
+    display: flex;
+    gap: 20px;
+}
